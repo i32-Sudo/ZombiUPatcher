@@ -19,6 +19,19 @@ so we are trying our best to fix the game to the best we can spending Hours/Days
 > 5a. No sound when launching the game (Caching Issue, Its been fixed)
 ```
 
+# MOD ISSUES
+```
+Due to the factor of Hex Editing and editing of the modules the memory has shiften a few KB' back and thus makes a lot of mods incompatible.
+
+Currently not-working mods (TESTED)
+
+> ZombiU_Noclip V2
+https://github.com/Zurek0x/ZombiU_Noclip_V2
+
+> ZombiU_FOV Editor
+https://github.com/Zurek0x/ZombiU_FOV_Editor
+```
+
 # HOW TO PATCH
 ```
 How To Patch
