@@ -46,14 +46,17 @@ How To Patch
 6. Once everything is done launch up the game and begin!
 ```
 
-# HOW TO RESTORE
+# HOW TO RESTORE BACK TO ORIGINAL GAME
 ```
 1a. If you have a saved backup then re-load that
 
-2a. If you are on steam then you can also Validate your game files.
-[Google For How-To]
+Steam Launcher:
+If you are on the Steam Launcher then in your games properties menu there should
+be a option to Validate Game Files, You can use that to validate your game files
 
-3a. If you are on Ubisoft Launcher you can also Validate your game files
+Ubisoft Launcher:
+If you are on the Steam Launcher then in your games properties menu there should
+be a option to Validate Game Files, You can use that to validate your game files
 ```
 
 
