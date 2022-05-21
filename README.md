@@ -25,11 +25,12 @@ Due to the factor of Hex Editing and editing of the modules the memory has shift
 
 Currently not-working mods (TESTED)
 
-> ZombiU_Noclip V2
+> ZombiU_Noclip V2 (Public Source Code)
 https://github.com/Zurek0x/ZombiU_Noclip_V2
 
-> ZombiU_FOV Editor
+> ZombiU_FOV Editor (Public Source Code)
 https://github.com/Zurek0x/ZombiU_FOV_Editor
+
 ```
 
 # HOW TO PATCH
