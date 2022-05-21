@@ -15,6 +15,8 @@ so we are trying our best to fix the game to the best we can spending Hours/Days
 
 > 4a. Fixes issue with clothing BumpMaps not being rendered
 (Hopefully)
+
+> 5a. No sound when launching the game (Caching Issue, Its been fixed)
 ```
 
 # HOW TO PATCH
