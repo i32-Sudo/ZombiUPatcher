@@ -3,6 +3,8 @@ ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Su
 we do this and put so much work into this its because we care about this game and what we see from ubisoft and how often they update this game it seems like they don't try or care enoguh like we do
 so we are trying our best to fix the game to the best we can spending Hours/Days/Nights trying to figure out new ways to improve the game.
 
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/logo.webp)
+
 # Current Bug Fixes
 ```
 > 1a. Recent Bug Caused By Ubisoft Update
@@ -27,6 +29,8 @@ How To Patch
 5. After doing so follow the on-screen instructions
 6. Once everything is done launch up the game and begin!
 ```
+
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/banner.jpg)
 
 # Change-log
 > Version 1.1
