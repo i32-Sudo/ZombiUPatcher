@@ -17,7 +17,7 @@ so we are trying our best to fix the game to the best we can spending Hours/Days
 (Hopefully)
 ```
 
-# Usage
+# HOW TO PATCH
 ```
 How To Patch
 
