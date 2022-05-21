@@ -46,6 +46,17 @@ How To Patch
 6. Once everything is done launch up the game and begin!
 ```
 
+# HOW TO RESTORE
+```
+1a. If you have a saved backup then re-load that
+
+2a. If you are on steam then you can also Validate your game files.
+[Google For How-To]
+
+3a. If you are on Ubisoft Launcher you can also Validate your game files
+```
+
+
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/banner.jpg)
 
 # Change-log
