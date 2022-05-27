@@ -19,8 +19,8 @@ title ZOMBIU XPatcher pdm[Patcher]
 echo Example: C:\Program Files (x86)\Steam\steamapps\common\ZOMBI
 echo Example: D:\steamapps\common\ZOMBI
 SET /P M=Type Enter Your ZOMBIU Install Directory: 
-netsh advfirewall firewall add rule name="ZOMBI_XPatcher" dir=out program="%M%\r1.exe" profile=any action=block
-netsh advfirewall firewall add rule name="ZOMBI_XPatcher" dir=in program="%M%\r1.exe" profile=any action=block
+netsh advfirewall firewall add rule name="ZOMBI_XPatcher" dir=out program="%M%\ZOMBI_Game.exe" profile=any action=block
+netsh advfirewall firewall add rule name="ZOMBI_XPatcher" dir=in program="%M%\ZOMBI_Game.exe" profile=any action=block
 
 netsh advfirewall firewall add rule name="ZOMBI_XPatcher" dir=out program="%M%\ZOMBI.exe" profile=any action=block
 netsh advfirewall firewall add rule name="ZOMBI_XPatcher" dir=in program="%M%\ZOMBI.exe" profile=any action=block
