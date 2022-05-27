@@ -61,6 +61,18 @@ How To Patch
 6. Once everything is done launch up the game and begin!
 ```
 
+# HOW TO PATCH USING LPM VERSION
+```
+LPM Version is a more Weightless version of the Release Build that uses less modules and required datasets and other stuff.
+This removes a lot of the Overlay Functions and Functions that require C++ or DOTNET Capibility and is just the BASE moded game.
+
+To install LPM instead of copying the files from the Version 1.3 folder copy it from (Version 1.3 [LPM]) Folder.
+Installation is same.
+
+
+The best use case is if you are running a older machine or another OS that doesn't support or have DOTNET or C++ for fancy features.
+```
+
 # HOW TO RESTORE BACK TO ORIGINAL GAME
 ```
 1a. If you have a saved backup then re-load that
@@ -73,7 +85,8 @@ Ubisoft Launcher:
 If you are on the Steam Launcher then in your games properties menu there should
 be a option to Validate Game Files, You can use that to validate your game files
 ```
-
+# GUIDE
+Here is a youtube guide for a better understanding on how to Patch/Un-Patch the game >> https://youtu.be/LV_hlMwbl58
 
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/banner.jpg)
 
