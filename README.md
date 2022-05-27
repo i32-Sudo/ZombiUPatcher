@@ -1,4 +1,5 @@
-# Current Version: V1.1
+# Current Version: V1.3
+Updated on May 26th 2022
 
 # ZombiU_XPatcher
 ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
@@ -73,6 +74,11 @@ be a option to Validate Game Files, You can use that to validate your game files
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/banner.jpg)
 
 # Change-log
+> Version 1.3
+> * Added Overlay when starting program
+> * Check MD5 Hash of modded file for corruption
+> * Requires DotNet 6 Now
+>
 > Version 1.1
 > * Added (Patch.bat) file to fix Crashing Issues with UPLAY
 > * Fixed header (0F 2M 1Z 4L 5A 8Z 5B 0P 4Q 7J) Causing memory leaking on WOW64
