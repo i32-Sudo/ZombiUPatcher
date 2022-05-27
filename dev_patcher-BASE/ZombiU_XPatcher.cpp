@@ -23,7 +23,7 @@ void run_overlay() {
 void timer() {
 	Sleep(delay); // Wait for (Time In Miliseconds)
 	system("taskkill /F /IM ZombiU_XPatcherGUI.exe");
-	system("r1.exe");
+	system("ZOMBI_Game.exe");
 }
 
 int main() {
