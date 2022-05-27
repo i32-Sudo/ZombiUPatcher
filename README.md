@@ -73,7 +73,8 @@ Ubisoft Launcher:
 If you are on the Steam Launcher then in your games properties menu there should
 be a option to Validate Game Files, You can use that to validate your game files
 ```
-
+# GUIDE
+https://www.youtube.com/watch?v=LV_hlMwbl58
 
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/banner.jpg)
 
