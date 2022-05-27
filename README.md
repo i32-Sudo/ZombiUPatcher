@@ -53,6 +53,7 @@ How To Patch
 ```
 
 # How To Patch | USING LPM VERSION | COMPATIBILITY VERSION
+```
 LPM Version is a more Weightless version of the Release Build that uses less modules and required datasets and other stuff.
 This removes a lot of the Overlay Functions and Functions that require C++ or DOTNET Capibility and is just the BASE moded game.
 
