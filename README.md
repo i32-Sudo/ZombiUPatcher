@@ -57,7 +57,7 @@ How To Patch
 LPM Version is a more Weightless version of the Release Build that uses less modules and required datasets and other stuff.
 This removes a lot of the Overlay Functions and Functions that require C++ or DOTNET Capibility and is just the BASE moded game.
 
-To install LPM instead of copying the files from the Version 1.3 folder copy it from (Version 1.3 [LPM]) Folder.
+To install LPM instead of copying the files from the Version X.X folder copy it from (Version X.X [LPM]) Folder.
 Installation is same.
 
 
