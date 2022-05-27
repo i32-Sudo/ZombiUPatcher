@@ -4,6 +4,16 @@
 
 using namespace std;
 
+
+// DE
+DWORD pID;
+int hook_delay = 6000;
+// EUR
+void clear() {
+	system("cls");
+}
+
+
 void HideConsole()
 {
 	::ShowWindow(::GetConsoleWindow(), SW_HIDE);
@@ -26,10 +36,29 @@ void timer() {
 	system("ZOMBI_Game.exe");
 }
 
+void hook_to_proc() {
+	Sleep(hook_delay);
+	HWND hwnd = FindWindowA(0, ("ZOMBI"));
+	if (!hwnd) cerr << "CANNOT FIND ZOMBI.EXE" << endl;
+	GetWindowThreadProcessId(hwnd, &pID);
+	HANDLE pHandle = OpenProcess(PROCESS_ALL_ACCESS, FALSE, pID);
+	if (!pHandle) cerr << "ERROR" << endl;
+}
+
+
 int main() {
-	HideConsole();
+	SetConsoleTitleA("DEBUG CONSOLE [ZOMBI]");
+	// Hide Console
+	//HideConsole();
+	ShowConsole();
+	// Define Threads
 	thread x(run_overlay);
 	thread y(timer);
-	y.join();
-	x.join();
+	y.join(); // Start Overlay
+	x.join(); // Start Overlay Timer
+	// Hook To Proc //
+	hook_to_proc();
+	while (true) {
+
+	}
 }
