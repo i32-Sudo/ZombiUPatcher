@@ -45,7 +45,7 @@ https://github.com/Zurek0x/ZombiU_FOV_Editor
 How To Patch
 
 1. Download the full source off Github
-2. Extract all the contents from the folder labeled "contents" and then the folder "Version X.X" to your ZOMBI/U INSTALLATION DIRECTORY
+2. Extract all the contents from the folder labeled "contents/Version X.X" to your ZOMBI/U INSTALLATION DIRECTORY
 3. Replace any files if needed, If you want too you can back-up your files before starting
 4. After replacing all the files run the file <Patch.bat> AS ADMINISTRATOR
 5. After doing so follow the on-screen instructions
