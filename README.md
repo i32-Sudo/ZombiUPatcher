@@ -4,6 +4,7 @@ Updated on May 26th 2022
 > * Added Overlay when starting program
 > * Check MD5 Hash of modded file for corruption
 > * Requires DotNet 6 Now
+> * Added LPM Version for Compatbility
 
 # ZombiU_XPatcher
 ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
@@ -95,6 +96,7 @@ Here is a youtube guide for a better understanding on how to Patch/Un-Patch the 
 > * Added Overlay when starting program
 > * Check MD5 Hash of modded file for corruption
 > * Requires DotNet 6 Now
+> * Added LPM Version for Compatbility
 >
 > Version 1.1
 > * Added (Patch.bat) file to fix Crashing Issues with UPLAY
