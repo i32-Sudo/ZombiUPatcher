@@ -63,6 +63,15 @@ Installation is same.
 
 
 The best use case is if you are running a older machine or another OS that doesn't support or have DOTNET or C++ for fancy features.
+
+
+Reason Why We have LPM?
+We are trying to add more fancy features like Overlays or Live Memory hacking and this all requires advanced programming features
+Like DOTNET or C++, And we know that some people are gonna try to run this game on older hardware or older machines or another OS like Linux Or MAC
+That don't have DOTNET or C++ Capability, So we include a LPM version that doesn't require DOTNET or C++ but you will lose all the fancy features
+
+
+LPM DOES NOT AFFECT BUG FIXES, YOU WONT LOSE ANY BUG FIXES IF YOU USE LPM
 ```
 
 # HOW TO RESTORE BACK TO ORIGINAL GAME
