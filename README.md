@@ -47,14 +47,13 @@ How To Patch
 1. Download the full source off Github
 2. Extract all the contents from the folder labeled "contents" to your ZOMBI/U INSTALLATION DIRECTORY
 3. Replace any files if needed, If you want too you can back-up your files before starting
-(If you are on steam if anything gets corrupted then you can just validate game files)
 4. After replacing all the files run the file <Patch.bat> AS ADMINISTRATOR
 5. After doing so follow the on-screen instructions
 6. Once everything is done launch up the game and begin!
-```
 
-# HOW TO PATCH USING LPM VERSION
-```
+
+How To Patch | USING LPM VERSION | COMPATIBILITY VERSION
+
 LPM Version is a more Weightless version of the Release Build that uses less modules and required datasets and other stuff.
 This removes a lot of the Overlay Functions and Functions that require C++ or DOTNET Capibility and is just the BASE moded game.
 
