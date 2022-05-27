@@ -74,7 +74,7 @@ If you are on the Steam Launcher then in your games properties menu there should
 be a option to Validate Game Files, You can use that to validate your game files
 ```
 # GUIDE
-https://www.youtube.com/watch?v=LV_hlMwbl58
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LV_hlMwbl58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/banner.jpg)
 
