@@ -1,3 +1,5 @@
+# Current Version: V1.1
+
 # ZombiU_XPatcher
 ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
 we do this and put so much work into this its because we care about this game and what we see from ubisoft and how often they update this game it seems like they don't try or care enoguh like we do
@@ -31,6 +33,14 @@ https://github.com/Zurek0x/ZombiU_Noclip_V2
 > ZombiU_FOV Editor (Public Source Code)
 https://github.com/Zurek0x/ZombiU_FOV_Editor
 
+```
+
+# Patch-Notes
+```
+Reverts Game Version back to 1.1
+(Before Crash Fix Update)
+
+Moves all memory allocations back by 2.13Mb
 ```
 
 # HOW TO PATCH
