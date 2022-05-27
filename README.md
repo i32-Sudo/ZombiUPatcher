@@ -41,7 +41,7 @@ https://github.com/Zurek0x/ZombiU_FOV_Editor
 
 ```
 
-![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/body.jpg)
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/hex.png)
 
 # HOW TO PATCH
 ```
