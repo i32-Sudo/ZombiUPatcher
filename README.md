@@ -1,4 +1,4 @@
-# Current Version: V1.1!!!
+# Current Version: V1.1
 
 # ZombiU_XPatcher
 ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
