@@ -1,5 +1,9 @@
 # Current Version: V1.3
 Updated on May 26th 2022
+> Version 1.3
+> * Added Overlay when starting program
+> * Check MD5 Hash of modded file for corruption
+> * Requires DotNet 6 Now
 
 # ZombiU_XPatcher
 ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
