@@ -1,10 +1,8 @@
-# Current Version: V1.3
+# Current Version: V1.4
 Updated on May 26th 2022
-> Version 1.3
-> * Added Overlay when starting program
-> * Check MD5 Hash of modded file for corruption
-> * Requires DotNet 6 Now
-> * Added LPM Version for Compatbility
+> Version 1.4
+> * Removed LPM Version
+> * Fixed False-Positive As Virus
 
 # ZombiU_XPatcher
 ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
@@ -60,27 +58,6 @@ How To Patch
 6. Once everything is done launch up the game and begin!
 ```
 
-# How To Patch | USING LPM VERSION | COMPATIBILITY VERSION
-```
-LPM Version is a more Weightless version of the Release Build that uses less modules and required datasets and other stuff.
-This removes a lot of the Overlay Functions and Functions that require C++ or DOTNET Capibility and is just the BASE moded game.
-
-To install LPM instead of copying the files from the Version X.X folder copy it from (Version X.X [LPM]) Folder.
-Installation is same.
-
-
-The best use case is if you are running a older machine or another OS that doesn't support or have DOTNET or C++ for fancy features.
-
-
-Reason Why We have LPM?
-We are trying to add more fancy features like Overlays or Live Memory hacking and this all requires advanced programming features
-Like DOTNET or C++, And we know that some people are gonna try to run this game on older hardware or older machines or another OS like Linux Or MAC
-That don't have DOTNET or C++ Capability, So we include a LPM version that doesn't require DOTNET or C++ but you will lose all the fancy features
-
-
-LPM DOES NOT AFFECT BUG FIXES, YOU WONT LOSE ANY BUG FIXES IF YOU USE LPM
-```
-
 # HOW TO RESTORE BACK TO ORIGINAL GAME
 ```
 1a. If you have a saved backup then re-load that
@@ -99,6 +76,10 @@ Here is a youtube guide for a better understanding on how to Patch/Un-Patch the 
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/banner.jpg)
 
 # Change-log
+> Version 1.4
+> * Removed LPM Version
+> * Fixed False-Positive As Virus
+> 
 > Version 1.3
 > * Added Overlay when starting program
 > * Check MD5 Hash of modded file for corruption
