@@ -39,6 +39,11 @@ https://github.com/Zurek0x/ZombiU_Noclip_V2
 > ZombiU_FOV Editor (Public Source Code)
 https://github.com/Zurek0x/ZombiU_FOV_Editor
 
+Currently Tested Mods (TESTED)
+
+> Reshade
+To install reshade you will have to install it on [ ZOMBI_Game.exe ] if mod is installed.
+
 ```
 
 ![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/hex.png)
