@@ -2,7 +2,6 @@
 Updated on May 26th 2022
 > Version 1.4
 > * Removed LPM Version
-> * Fixed False-Positive As Virus
 
 # ZombiU_XPatcher
 ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
@@ -78,7 +77,6 @@ Here is a youtube guide for a better understanding on how to Patch/Un-Patch the 
 # Change-log
 > Version 1.4
 > * Removed LPM Version
-> * Fixed False-Positive As Virus
 > 
 > Version 1.3
 > * Added Overlay when starting program
