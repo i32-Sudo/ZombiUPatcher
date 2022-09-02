@@ -1,3 +1,7 @@
+A lot of people are forgetting about this guide on how to install, If you run into any issues follow this guide first before making a Issue or Commit.
+[Zombi - ZombiU Sound Bug Fix + Other Bug Fixes [Mod]
+](https://www.youtube.com/watch?v=LV_hlMwbl58)
+
 # Current Version: V1.4
 Updated on May 26th 2022
 > Version 1.4
