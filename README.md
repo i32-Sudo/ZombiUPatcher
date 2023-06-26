@@ -7,12 +7,12 @@ Updated on May 26th 2022
 > Version 1.4
 > * Removed LPM Version
 
-# ZombiU_XPatcher
-ZombiU X-Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
+# ZombiU_Patcher
+ZombiU Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Support, Etc", We try our best to patch the game to the best we can through reverse-engenering, If you want to know why
 we do this and put so much work into this its because we care about this game and what we see from ubisoft and how often they update this game it seems like they don't try or care enoguh like we do
 so we are trying our best to fix the game to the best we can spending Hours/Days/Nights trying to figure out new ways to improve the game.
 
-![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/logo.webp)
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Patcher/main/media/logo.webp)
 
 # Current Bug Fixes
 ```
@@ -47,7 +47,7 @@ To install reshade you will have to install it on [ ZOMBI_Game.exe ] if mod is i
 
 ```
 
-![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/hex.png)
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Patcher/main/media/hex.png)
 
 # HOW TO PATCH
 ```
@@ -76,7 +76,7 @@ be a option to Validate Game Files, You can use that to validate your game files
 # GUIDE
 Here is a youtube guide for a better understanding on how to Patch/Un-Patch the game >> https://youtu.be/LV_hlMwbl58
 
-![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_XPatcher/main/media/banner.jpg)
+![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Patcher/main/media/banner.jpg)
 
 # Change-log
 > Version 1.4
