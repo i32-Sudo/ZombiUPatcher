@@ -12,7 +12,7 @@ ZombiU Patcher is a patcher that includes "Bug Fixes, Crash Fixes, Hardware Supp
 we do this and put so much work into this its because we care about this game and what we see from ubisoft and how often they update this game it seems like they don't try or care enoguh like we do
 so we are trying our best to fix the game to the best we can spending Hours/Days/Nights trying to figure out new ways to improve the game.
 
-![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Patcher/main/media/logo.webp)
+![alt text](https://github.com/i32-Sudo/ZombiUPatcher/blob/main/media/banner.jpg?raw=true)
 
 # Current Bug Fixes
 ```
@@ -47,7 +47,7 @@ To install reshade you will have to install it on [ ZOMBI_Game.exe ] if mod is i
 
 ```
 
-![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Patcher/main/media/hex.png)
+![alt text](https://github.com/i32-Sudo/ZombiUPatcher/blob/main/media/body.jpg?raw=true)
 
 # HOW TO PATCH
 ```
@@ -76,7 +76,7 @@ be a option to Validate Game Files, You can use that to validate your game files
 # GUIDE
 Here is a youtube guide for a better understanding on how to Patch/Un-Patch the game >> https://youtu.be/LV_hlMwbl58
 
-![alt text](https://raw.githubusercontent.com/Zurek0x/ZombiU_Patcher/main/media/banner.jpg)
+![alt text](https://github.com/i32-Sudo/ZombiUPatcher/blob/main/media/hex.png?raw=true)
 
 # Change-log
 > Version 1.4
